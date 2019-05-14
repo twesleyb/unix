@@ -8,6 +8,9 @@
 git request-pull master ./
 
 # This pull request will not be visible on GitHub.com
-# In order to interact with GitHub.com API, use HIB:
+# In order to interact with GitHub.com API, use HUB:
 https://hub.github.com/
+# On Linux/Ubuntu this can be installed with the install-hub executable in ~/bin
 
+# To issue a pull request with hub. From the working branch, call:
+hub pull-request
