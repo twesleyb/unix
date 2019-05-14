@@ -6,3 +6,8 @@
 
 # Issue a pull request from working branch.
 git request-pull master ./
+
+# This pull request will not be visible on GitHub.com
+# In order to interact with GitHub.com API, use HIB:
+https://hub.github.com/
+
