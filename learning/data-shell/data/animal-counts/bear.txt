@@ -1,0 +1,3 @@
+Binary file .animal-counts.sh.swp matches
+# bash animal-counts.sh bear
+2012-11-07,1
