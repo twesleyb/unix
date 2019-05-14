@@ -1,0 +1,6 @@
+## Useful git commands.
+
+# Recreate master branch. The -B option will create <new_branch> if it doesn't exist; otherwise it will be reset.
+# https://superuser.com/questions/273172/how-do-i-reset-master-to-origin-master/273199
+ git checkout -B master origin/master
+
