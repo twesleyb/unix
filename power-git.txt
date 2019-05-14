@@ -4,3 +4,5 @@
 # https://superuser.com/questions/273172/how-do-i-reset-master-to-origin-master/273199
  git checkout -B master origin/master
 
+# Issue a pull request from working branch.
+git request-pull master ./
