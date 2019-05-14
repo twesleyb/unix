@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Edit from work branch
-=======
-edit from master
->>>>>>> master
+edit to be pulled into master
